@@ -1,0 +1,10 @@
+
+# Model weights - do not upload
+pytorch_model.bin
+**/pytorch_model.bin
+pytorch_model-*.bin
+**/pytorch_model-*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
