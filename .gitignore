@@ -8,3 +8,8 @@ pytorch_model-*.bin
 *.ckpt
 *.pt
 *.pth
+
+# Secrets
+.env
+*.env
+secrets/

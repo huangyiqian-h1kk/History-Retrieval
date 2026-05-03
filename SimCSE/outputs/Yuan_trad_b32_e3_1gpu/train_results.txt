@@ -1,0 +1,4 @@
+epoch = 3.0
+total_flos = 0
+train_runtime = 11552.6501
+train_samples_per_second = 6.303
